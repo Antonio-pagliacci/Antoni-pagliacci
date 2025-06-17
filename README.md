@@ -63,9 +63,3 @@
 <img src="https://raw.githubusercontent.com/Antonio-pagliacci/Antonio-pagliacci/output/snake.svg" alt="Snake animation" />
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Antonio-pagliacci/Antonio-pagliacci/output/snake.svg" alt="Snake animation" />
-
-###
